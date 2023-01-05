@@ -9,7 +9,7 @@ public class FirstClass
 		System.out.println("Added Dependencies");
 		System.out.println("Extent Report");
 		System.out.println("Log4j Report");
-		System.out.println("Basic Stuff");
+		System.out.println("Basic Stuf");
 		
 	}
 	
